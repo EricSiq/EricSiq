@@ -10,7 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericsiq&show_icons=true&locale=en&layout=compact" alt="ericsiq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericsiq&show_icons=true&locale=en" alt="ericsiq" /></p>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EricSiq&theme=bear" width=750  alt="stats graph"/>
 </div>
