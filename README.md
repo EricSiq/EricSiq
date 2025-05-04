@@ -6,10 +6,10 @@
 ## 👋 About Me
 I’m an AI/ML undergrad driven by a passion for intelligent systems and aspiring to AI research. Over the past two years, I’ve developed core skills in:
 
-- **Programming & Algorithms:** Python, C, data structures, algorithms, probabilistic models  
+- **Programming & Algorithms:** Python, C, Java, data structures & algorithms, probabilistic models  
 - **Data Science & ML:** Data preprocessing, exploratory analysis, supervised & unsupervised learning, deep learning  
-- **Web & Tooling:** Streamlit, Next.js, React, Tailwind, MongoDB, cloud basics  
-- **Quantum Foundations:** Fundamentals of quantum computing and research methodologies  
+- **Web & Tooling:** Streamlit, Next.js, React, SQL, MongoDB
+- **Quantum Foundations:** Learning the Fundamentals of quantum computing and research methodologies  
 
 Eager to contribute to cutting‑edge AI research, collaborate on innovative solutions, and drive impactful change.  
 
