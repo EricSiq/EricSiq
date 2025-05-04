@@ -2,15 +2,16 @@
 <h3 align="center">Aspiring AI&ML researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsiq&label=Profile%20views&color=0e75b6&style=flat" alt="ericsiq" /> </p>
+
 ## 👋 About Me
-I’m an AI/ML engineering undergrad driven by a passion for advancing intelligent systems and pursuing a career in AI research. Over the past two years, I’ve cultivated:
+I’m an AI/ML undergrad driven by a passion for intelligent systems and aspiring to AI research. Over the past two years, I’ve developed core skills in:
 
-- **Programming & Algorithms:** Proficient in Python and C; solid grasp of data structures, algorithms, and probabilistic models.  
-- **Data Science & ML:** Experience with data preprocessing, exploratory analysis, supervised and unsupervised learning, deep learning frameworks.  
-- **Web & Tooling:** Built interactive apps with Streamlit, Next.js, React, and Tailwind; familiar with MongoDB and cloud deployments.  
-- **Quantum & Research Foundations:** Engaged in quantum computing concepts and research methodologies.
+- **Programming & Algorithms:** Python, C, data structures, algorithms, probabilistic models  
+- **Data Science & ML:** Data preprocessing, exploratory analysis, supervised & unsupervised learning, deep learning  
+- **Web & Tooling:** Streamlit, Next.js, React, Tailwind, MongoDB, cloud basics  
+- **Quantum Foundations:** Fundamentals of quantum computing and research methodologies  
 
-I’m eager to contribute to cutting‑edge AI research and collaborate on innovative solutions.  
+Eager to contribute to cutting‑edge AI research, collaborate on innovative solutions, and drive impactful change.  
 
 
 <h3 align="left">Languages and Tools:</h3>
