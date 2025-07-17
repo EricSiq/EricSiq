@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsiq&label=Profile%20views&color=0e75b6&style=flat" alt="ericsiq" /> </p>
 
 ## 👋 About Me
-I’m an AI/ML undergrad driven by a passion for intelligent systems and aspiring to AI research. Over the past two years, I’ve developed core skills in:
+I’m an AI/ML undergrad driven by a passion for intelligent systems and an aspiring AI researcher. Over the past two years, I’ve developed foundational skills in:
 
-- **Programming & Algorithms:** Python, C, Java, data structures & algorithms, probabilistic models  
-- **Data Science & ML:** Data preprocessing, exploratory analysis, supervised & unsupervised learning, deep learning  
-- **Web & Tooling:** Streamlit, Next.js, React, SQL, MongoDB
-- **Quantum Foundations:** Learning the Fundamentals of quantum computing and research methodologies  
+- **1. Programming Languages & Algorithms:** Python, C, JavaScript, Java, data structures & algorithms, probabilistic models, computer vision  
+- **2. WebDev & Databases:** Node.js, Next.js, React.js, SQL, MongoDB
+- **3. AIML Frameworks:** Tensorflow, Pytorch, Qiskit, Scikit, Sklearn
+- **4. Quantum Foundations:** Currently learning the Fundamentals of quantum computing and quantum programming
 
-Eager to contribute to cutting‑edge AI research, collaborate on innovative solutions, and drive impactful change.  
+Eager to contribute to AI research, collaborate on innovative solutions, and drive impactful change. Thank you for taking the time to read this! 
 
 
 # 💻 Tech Stack
