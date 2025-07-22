@@ -8,8 +8,8 @@ I’m an AI/ML undergrad driven by a passion for intelligent systems and an aspi
 
 - **1. Programming Languages & Algorithms:** Python, C, JavaScript, Java, data structures & algorithms, probabilistic models, computer vision  
 - **2. WebDev & Databases:** Node.js, Next.js, React.js, SQL, MongoDB
-- **3. AIML Frameworks:** Tensorflow, Pytorch, Qiskit, Scikit, Sklearn
-- **4. Quantum Foundations:** Currently learning; Fundamentals of quantum computing and quantum programming
+- **3. AIML Frameworks:** Tensorflow, Pytorch, Rasterio,Scikit, Sklearn
+- **4. Quantum Foundations:** Currently learning; Fundamentals of quantum computing and quantum programming(Qiskit and Cirq)
 
 Eager to contribute to AI research, collaborate on innovative solutions, and drive impactful change. Thank you for taking the time to read this! 
 
