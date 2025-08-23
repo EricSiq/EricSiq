@@ -9,8 +9,10 @@ I’m an Artificial Intelligence & Machine Learning (AI&ML) undergraduate driven
 - **1. Programming Languages & Algorithms:** Python, C, JavaScript, Java, data structures & algorithms, probabilistic models, computer vision  
 - **2. WebDev & Databases:** Node.js, Next.js, React.js, SQL, MongoDB
 - **3. AIML Frameworks:** Tensorflow, Langchain. Pytorch, Rasterio, Scikit, Sklearn
-- **4. Quantum Computing:** Currently learning; Fundamentals of quantum computing and quantum programming(Qiskit, TensorflowQuantum and Cirq)
+- **4. Quantum Computing:** Fundamentals of quantum computing and quantum programming(Qiskit, TensorflowQuantum and Cirq)
 
+
+Currently Building projects on: **Quantum Machine Learning, Agentic Frameworks, Legal AI**
 Eager to contribute to AI research, collaborate on innovative solutions, and create impactful change. Thank you for taking the time to read this! 
 
 
