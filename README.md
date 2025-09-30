@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Eric Siqueira</h1>
-<h3 align="center">Aspiring AI&ML researcher</h3>
+<h3 align="center">An Aspiring AI&ML Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsiq&label=Profile%20views&color=0e75b6&style=flat" alt="ericsiq" /> </p>
 
@@ -14,7 +14,7 @@ I’m an Artificial Intelligence & Machine Learning (AI&ML) undergraduate driven
 
 Currently Building projects on: **Quantum Machine Learning, Agentic Frameworks, Natural Language Processing.**
 
-Eager to contribute to AI research, collaborate on innovative solutions, and create impactful change. Thank you for taking the time to read this! 
+Eager to contribute to AI research, collaborate on innovative solutions, and create meaningful change. Thank you for taking the time to read this! 
 
 
 # My Tech Stack:
