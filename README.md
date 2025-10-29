@@ -6,9 +6,9 @@
 ##  About Me:
 I’m an Artificial Intelligence & Machine Learning (AI&ML) undergraduate driven by a passion for intelligent systems and am an aspiring AI researcher. Over the past two years, I’ve developed foundational skills in:
 
-- **1. Programming Languages & Algorithms:** Python, C, JavaScript, Java, data structures & algorithms, probabilistic models, computer vision  
-- **2. WebDev & Databases:** Node.js, Next.js, React.js, SQL, MongoDB
-- **3. AIML Frameworks:** Tensorflow, Langchain. Pytorch, Rasterio, Scikit, Sklearn
+- **1. Programming Languages & Algorithms:** Python, C, JavaScript, Java, data structures & algorithms, deep learning, computer vision  
+- **2. WebDev & Databases:** Node.js, Next.js, React.js, SQL, MongoDB, Neo4j
+- **3. AIML Frameworks:** Tensorflow, Langchain, Pytorch, Rasterio, Scikit, Sklearn, Docling
 - **4. Quantum Computing:** Fundamentals of quantum computing and quantum mechanics (Qiskit, TensorflowQuantum and Cirq)
 
 
