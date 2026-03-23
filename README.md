@@ -12,7 +12,7 @@ I’m an Artificial Intelligence & Machine Learning (AI&ML) undergraduate driven
 - **4. Quantum Computing:** Fundamentals of quantum computing and quantum mechanics (Qiskit, TensorflowQuantum and Cirq)
 
 
-Currently Building projects on: **Quantum Machine Learning, Agentic Frameworks, Natural Language Processing.**
+Currently Building projects on: **Pysics Informed Machine Learning, Embedded AI, Reinforcement Learning.**
 
 Eager to contribute to AI research, collaborate on innovative solutions, and create meaningful change. Thank you for taking the time to read this! 
 
