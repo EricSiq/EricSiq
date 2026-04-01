@@ -31,6 +31,7 @@ Currently learning: **Physics-Informed Machine Learning, Embedded AI, Reinforcem
 - Legal Multi Agent AI Systems (LLM Orchestration and Reasoning)
 
 ##  Open to:
+
 > AI Research Internships, Applied ML Roles, Quantum Computing Research
 ---
 
